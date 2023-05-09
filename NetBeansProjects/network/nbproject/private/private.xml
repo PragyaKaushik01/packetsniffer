@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/HTTP.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/ICMP.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/SMTP.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/PacketChecker.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/PacketStructure.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/UDP.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/DNS.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/FTP.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/Sniffer.java</file>
+            <file>file:/C:/Users/pragy/Documents/NetBeansProjects/network/src/network/TCP.java</file>
+        </group>
+    </open-files>
+</project-private>
